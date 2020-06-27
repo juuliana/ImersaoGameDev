@@ -48,9 +48,9 @@
 
 
 ## Tecnologias Utilizadas
-- [JavaScript][js]
-- [p5][p5]
-- [VS Code][vc]
+- [JavaScript]
+- Biblioteca [p5.js]
+- [Visual Studio Code]
 
 
 ## Quer modificar e fazer o seu próprio jogo também?
@@ -59,6 +59,10 @@
 # Para clonar o meu Repositório
 $ git clone https://github.com/juuliana/ImersaoGameDev.git
 ```
+<h4 align="center">
+    Aqui você encontrará alguns Sprites para utilizar em seu jogo:<br>
+    <a href="https://pipoya.itch.io/pipoya-free-2d-game-character-sprites" target="_blank">Clique aqui</a>
+</h4>
 
 <h4 align="center">
     Faça conexão comigo: <a href="https://www.linkedin.com/in/juliana-dos-santos-ribeiro-b721b6197/" target="_blank">LinkedIn</a>
